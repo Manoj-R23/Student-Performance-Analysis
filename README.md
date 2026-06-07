@@ -57,7 +57,14 @@ and produce actionable recommendations for school improvement.
 ---
 
 ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
+This interactive Excel dashboard provides a comprehensive overview of student 
+performance across 1,000 students. It includes 4 KPI cards showing Total Students, 
+At-Risk Students, Average Total Score, and Test Prep Completion rate. Six charts 
+visualise key findings including parental education impact, test preparation effect, 
+gender performance differences, at-risk segmentation, and total score distribution. 
+The dashboard is built using Excel Pivot Tables and Charts for dynamic data analysis.
 
 ---
 
